@@ -19,3 +19,7 @@ if (estoque < 30){
 // acima de 80 deve retornar "Estoque alto"
 // entre 31 e 80 deve retornar "Estoque normal"
 // abaixo de 30 deve retornar "Estoque baixo"
+
+// acima de 80 deve retornar "Estoque alto"
+// entre 31 e 80 deve retornar "Estoque normal"
+// abaixo de 30 deve retornar "Estoque baixo"
