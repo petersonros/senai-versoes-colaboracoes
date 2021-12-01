@@ -1,12 +1,2 @@
-if {
 
-}
-else
-if
-finally
-if
-alert
-if
-AudioListener
-asserts
-async
+alert { "apaguei por que estava tudo errado" }
